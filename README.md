@@ -1,3 +1,7 @@
+#run
+npm install
+npm run start
+
 #自动会 point 去 index.js
 import时 不必直接poin index file
 

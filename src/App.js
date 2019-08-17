@@ -27,7 +27,7 @@ class App extends Component {
         <a class="btn-floating btn-large waves-effect waves-light red" onClick={this.openModal}><i class="material-icons">add</i></a>
         <Modal show={this.state.displayModal} closeModal={this.closeModal}>
           <h3>This is a Modal tag able to accept children</h3>
-          <p>halo world i am from earth, teach me programming</p>
+          <p>Holo World , This is a pop up modal, Enjoy!</p>
         </Modal>
       </div>
     );
